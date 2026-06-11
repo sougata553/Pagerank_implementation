@@ -1,7 +1,5 @@
 # Implementation of PageRank Algorithm in C++ (Early Stage)
 
-> Just for fun, I was bored. (okay so i think i made something which works pretty nice)
-
 ## About The Project
 
 This is a very primitive implementation of the famous PageRank algorithm, that's basically ranking pages to provide relevant results in response to a web search- so that we don't have to find for the thing we are looking for like a maniac (makes life easier T_T ).
